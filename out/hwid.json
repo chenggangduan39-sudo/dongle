@@ -1,0 +1,12 @@
+{
+  "ver": 1,
+  "serial": "",
+  "board": "",
+  "emmc_cid": "",
+  "mac": "",
+  "extras": {
+    "vendor": "Lenovo",
+    "device": "speaker"
+  },
+  "hash_hex": "fb78924ea2c17f97299d08d9d1b5f9ee5ec0b87eccfd8c5b44bd8b00c9e86413"
+}
